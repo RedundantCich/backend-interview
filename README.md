@@ -1,8 +1,8 @@
 # backend-test-interview
 
 ## Requirements
-- Java 25
-- Gradle (wrapper included)
+- Java 21
+- Gradle
 
 ## Run tests
 ```bash
